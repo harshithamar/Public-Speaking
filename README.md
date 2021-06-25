@@ -1,9 +1,10 @@
-# Public-Speaking
-UPSKILL COMMUNITY PRESENTS 7-DAY BOOT-CAMP ON PUBLIC SPEAKING.
-
 Hello Everyone,
-This repository contains the PDFs of the boot-camp on Public Speaking organised by UpSkill Community.
-Feel free to check it out. 
+
+This is a repository containing the PDFs of the 7-DAY Boot-Camp on Public-Speaking organised by the UpSKill Community. 
 
 By,
-Harshitha and Meghna.
+Meghna and Harshitha.
+
+Feel free to check it out.
+
+Thank you. 
